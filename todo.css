@@ -1,0 +1,19 @@
+body{
+	background-color: #04A1BF;
+	text-align: center;
+}
+.touched{
+	border: 2px solid purple;
+	background: yellow;
+	text-decoration: line-through;
+	transition: all 0.75s ease;
+}
+.delete{
+	display:none;
+	
+}
+li{
+	list-style-type: none;
+	width:300px;
+	margin: 0 auto;
+}
